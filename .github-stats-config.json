@@ -1,0 +1,16 @@
+{
+  "theme": "catppuccin",
+  "headerStyle": "windows",
+  "hostname": "github.com",
+  "typingSpeed": 80,
+  "sourceType": "user",
+  "target": "vinicius-gandini",
+  "commands": [
+    "whoami",
+    "neofetch",
+    "languages",
+    "uptime",
+    "exit"
+  ],
+  "customCommands": {}
+}
