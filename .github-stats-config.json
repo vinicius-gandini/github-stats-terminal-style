@@ -2,7 +2,7 @@
   "theme": "catppuccin",
   "headerStyle": "windows",
   "hostname": "github.com",
-  "typingSpeed": 75,
+  "typingSpeed": 100,
   "sourceType": "user",
   "target": "vinicius-gandini",
   "commands": [
