@@ -2,15 +2,16 @@
   "theme": "catppuccin",
   "headerStyle": "windows",
   "hostname": "github.com",
-  "typingSpeed": 100,
+  "typingSpeed": 120,
   "sourceType": "user",
   "target": "vinicius-gandini",
   "commands": [
     "whoami",
-    "neofetch",
-    "languages",
+    "desc",
     "uptime",
     "exit"
   ],
-  "customCommands": {}
+  "customCommands": {
+    "desc": "6+ years building scalable cloud microservices with a strong focus on performance optimization and cost efficiency."
+  }
 }
